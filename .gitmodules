@@ -1,51 +1,51 @@
 [submodule "elasticsearch"]
-  path = elasticsearch
-  url = https://github.com/foxycoder/cookbook-elasticsearch.git
+	path = elasticsearch
+	url = https://github.com/foxycoder/cookbook-elasticsearch.git
 [submodule "java"]
-  path = java
-  url = https://github.com/opscode-cookbooks/java.git
+	path = java
+	url = https://github.com/opscode-cookbooks/java.git
 [submodule "apt"]
-  path = apt
-  url = https://github.com/opscode-cookbooks/apt.git
+	path = apt
+	url = https://github.com/opscode-cookbooks/apt.git
 [submodule "nginx"]
-  path = nginx
-  url = https://github.com/opscode-cookbooks/nginx.git
+	path = nginx
+	url = https://github.com/opscode-cookbooks/nginx.git
 [submodule "ark"]
-  path = ark
-  url = https://github.com/opscode-cookbooks/ark.git
+	path = ark
+	url = https://github.com/opscode-cookbooks/ark.git
 [submodule "aws"]
-  path = aws
-  url = https://github.com/opscode-cookbooks/aws.git
+	path = aws
+	url = https://github.com/opscode-cookbooks/aws.git
 [submodule "git"]
-  path = git
-  url = https://github.com/opscode-cookbooks/git.git
+	path = git
+	url = https://github.com/opscode-cookbooks/git.git
 [submodule "bluepill"]
-  path = bluepill
-  url = https://github.com/opscode-cookbooks/bluepill.git
+	path = bluepill
+	url = https://github.com/opscode-cookbooks/bluepill.git
 [submodule "build-essential"]
-  path = build-essential
-  url = https://github.com/opscode-cookbooks/build-essential.git
+	path = build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
 [submodule "ohai"]
-  path = ohai
-  url = https://github.com/opscode-cookbooks/ohai.git
+	path = ohai
+	url = https://github.com/opscode-cookbooks/ohai.git
 [submodule "python"]
-  path = python
-  url = https://github.com/opscode-cookbooks/python.git
+	path = python
+	url = https://github.com/opscode-cookbooks/python.git
 [submodule "rsyslog"]
-  path = rsyslog
-  url = https://github.com/opscode-cookbooks/rsyslog.git
+	path = rsyslog
+	url = https://github.com/opscode-cookbooks/rsyslog.git
 [submodule "windows"]
-  path = windows
-  url = https://github.com/opscode-cookbooks/windows.git
+	path = windows
+	url = https://github.com/opscode-cookbooks/windows.git
 [submodule "yum"]
-  path = yum
-  url = https://github.com/opscode-cookbooks/yum.git
+	path = yum
+	url = https://github.com/opscode-cookbooks/yum.git
 [submodule "yumrepo"]
-  path = yumrepo
-  url = https://github.com/bryanwb/cookbook-yumrepo.git
+	path = yumrepo
+	url = https://github.com/bryanwb/cookbook-yumrepo.git
 [submodule "yum-epel"]
-  path = yum-epel
-  url = git://github.com/opscode-cookbooks/yum-epel.git
+	path = yum-epel
+	url = git://github.com/opscode-cookbooks/yum-epel.git
 [submodule "mongodb"]
-  path = mongodb
-  url = git://github.com/edelight/chef-mongodb
+	path = mongodb
+	url = git://github.com/edelight/chef-mongodb
